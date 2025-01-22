@@ -35,7 +35,6 @@ https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://www.dan.me.uk/torlist/
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
-https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/ipblocklist.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
@@ -68,3 +67,4 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/ehindiayleau/BlockNSA/refs/heads/main/BlockNSA
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
